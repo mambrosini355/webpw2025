@@ -344,6 +344,7 @@ footer p {
     .inicio-flex {
         padding-left: 1rem;
         padding-right: 1rem;
+        margin-top: 2rem !important;
     }
     #contacto form {
         width: calc(100% - 2rem) !important;
